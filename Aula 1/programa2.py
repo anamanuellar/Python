@@ -4,3 +4,8 @@ while (not validarIdade (idade)):
     idade = int(input('Informe uma idade válida: '))
     
 print("Idade correta!")
+
+#-----------------------------------------------
+
+
+    

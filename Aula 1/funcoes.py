@@ -27,3 +27,22 @@ def validarIdade(idade):
 def validarIdades(idade):
       
     return True if (5 <=idade>=150) else False
+  
+# Elaborar um função que retorna o maior valor entre 2 valores informados
+
+def maior(x,y):
+    max = x
+
+    if y > max:
+        max = y
+  
+    return max
+
+def menor(x,y):
+    min = x
+
+    if y < min:
+        min = y
+ 
+    return min
+    
